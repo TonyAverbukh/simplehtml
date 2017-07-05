@@ -1,0 +1,43 @@
+body{
+	background-color: #AEE3F5;
+}
+
+nav{
+	height: 70px;
+	width: 100%;
+	text-align: center;
+	background-color: #e8cfca;
+	font-family: 'Open Sans', sans-serif;
+	word-spacing: 10px:
+	
+}
+.titlebar{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	background-color: #42e2a8;
+	font-family: 'Open Sans', sans-serif;
+	word-spacing: 10px;
+	font-size: 70px;
+	color: #c55bbc;
+}
+.infobar{
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	background-color: #42e2a8;
+	font-family: 'Open Sans', sans-serif;
+	word-spacing: 10px;
+	font-size: 50px;
+	color: #c55bbc;
+}
+.whtdo{
+	height: 500px;
+	width: 100%;
+	text-align: center;
+	background-color: #42e2a8;
+	font-family: 'Open Sans', sans-serif;
+	word-spacing: 10px;
+	font-size: 30px;
+	color: #c55bbc;
+}
