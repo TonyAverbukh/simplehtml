@@ -1,8 +1,10 @@
 body{
 	background-color: #AEE3F5;
+
 }
 
 nav{
+	display: none;
 	height: 70px;
 	width: 100%;
 	text-align: center;
@@ -10,11 +12,12 @@ nav{
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 	position: fixed;
+	top: 0;
 	font-size: 50px;
 }
 .titlebar{
-	padding-top: 70px;
-	height: 100px;
+	padding: 20px 0px;
+	
 	width: 100%;
 	text-align: center;
 	background-color: #42e2a8;
@@ -24,7 +27,8 @@ nav{
 	color: #c55bbc;
 }
 .infobar{
-	height: 50px;
+
+	padding: 10px 0px;
 	width: 100%;
 	text-align: center;
 	background-color: #42e2a8;
