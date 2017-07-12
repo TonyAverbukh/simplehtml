@@ -1,14 +1,14 @@
 body{
-	background-color: #AEE3F5;
+	background-color: #FFFCF9;
 
 }
 
 nav{
-	display: none;
+	vertical-align: top;
 	height: 70px;
 	width: 100%;
 	text-align: center;
-	background-color: #e8cfca;
+	background-color: #d2bba0;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 	position: fixed;
@@ -20,40 +20,65 @@ nav{
 	
 	width: 100%;
 	text-align: center;
-	background-color: #42e2a8;
+	background-color: #9f7e69;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 	font-size: 70px;
-	color: #c55bbc;
+	color: #f2efc7;
 }
 .infobar{
 
 	padding: 10px 0px;
 	width: 100%;
 	text-align: center;
-	background-color: #42e2a8;
+	background-color: #9f7e69;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 
 	font-size: 50px;
-	color: #c55bbc;
+	color: #f2efc7;
 }
 .whtdo{
 	height: 500px;
 	width: 100%;
-	text-align: center;
-	background-color: #42e2a8;
+	
+	background-color: #f2efc7;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 	font-size: 30px;
 	color: #c55bbc;
+		width: 50%;
+	text-align: center;
+}
+.header{
+	width: 100%;
+	padding: 5px;
 	
 }
+.header h1{
+	text-align:center;
+	padding: 15px;
+	
+}
+.header-sides{
+	vertical-align: top;
+	display: inline-block;
+	margin-right: -4px;
+	margin-bottom: -5px;
+	width: 50%;
+text-align: center;
+
+}
+.header-sides p{
+	padding: 10px;
+text-align: justify;
+}
+
 footer{
-	height: 30px;
+	height: 50px;
 	width: 100%;
 	text-align: center;
-	background-color: #e8cfca;
+	background-color: #6B5147;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 

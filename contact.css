@@ -4,9 +4,10 @@ body{
 
 nav{
 	height: 70px;
+		vertical-align: top;
 	width: 100%;
 	text-align: center;
-	background-color: #e8cfca;
+	background-color: #d2bba0;
 	font-family: 'Open Sans', sans-serif;
 	word-spacing: 10px;
 	position: fixed;
